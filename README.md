@@ -1,4 +1,5 @@
-# Physics-Reports
+<h1 align='center'> Physics Reports </h1>
+
 A selection of reports, essays and articles from my BSc Physics degree at the University of Bristol. Each report was written with LaTeX software, in which I am fluent. My final year project report can be seen: https://github.com/Daniel-Elston/LHC-Particle-Beam-Detection-for-CERN.git
 
 Biophysics Essay: An article of recent biophysical technological advancments (High 2:1).
