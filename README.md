@@ -13,3 +13,15 @@ Biophysics Essay: An article of recent biophysical technological advancments (Hi
 Formal Lab Report: An academic paper investigating the latent heat capacity of various elements (1st).
 
 Stellar Evolution Essay: A paper describing the evolution of stellar structures (2:1).
+
+
+## Contributing Members and Contacts
+**Team Lead: [Daniel Elston](https://github.com/Daniel-Elston)**
+
+|Name     |  GitHub Handles   |  
+|---------|-----------------|
+| Daniel Elston | [Git DE](https://github.com/Daniel-Elston)   |
+
+Please feel free to contact me if you have any questions, require any further information or wish to contribute.<br/>
+Email 1: delstonds@outlook.com<br/>
+Email 2: ec21024@qmul.ac.uk
